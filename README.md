@@ -46,3 +46,8 @@ Easy to understand and modify
 
 ## Ambati Hasini
 B.Tech CSE (AI) Student
+
+## Output
+<img width="1417" height="807" alt="Screenshot 2026-01-27 132550" src="https://github.com/user-attachments/assets/ded6f4b8-512c-446a-97e9-f9cfb2fff9c0" />
+
+
